@@ -1,0 +1,1 @@
+bu proje responsive deyil 
